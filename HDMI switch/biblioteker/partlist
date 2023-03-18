@@ -1,0 +1,32 @@
+Partlist
+
+Exported from schematic hovedboks version 3.sch at 17.03.2023 22:24
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Assembly variant: 
+
+Part         Value                 Device                Package                 Library                                Sheet
+
+ATTINY85     ATTINY85V-10P         ATTINY85V-10P         PDIP08_300MIL           _hhn_attiny25_45_85                    1
+C1           10nF                  C-EUC0805             C0805                   rcl                                    1
+C2           47pF                  C-EUC0805             C0805                   rcl                                    1
+C3           47pF                  C-EUC0805             C0805                   rcl                                    1
+C4           4.7uF                 C-EUC0805             C0805                   rcl                                    1
+C5           100nF                 C-EUC0805             C0805                   rcl                                    1
+FB1          30?/1.8A              FERRITE_BEAD-0603     0603                    SparkFun-Coils                         1
+HMDI-OUT     HD04-19-TH-TR         HD04-19-TH-TR         CUI_HD04-19-TH-TR       HD04-19-TH-TR                          1
+IC1          FT201XS-U             FT201XS-U             SOP64P599X175-16N       FT201XS-U                              1
+J1           USB1046-GF-0190-L-B-A USB1046-GF-0190-L-B-A USB1046GF0190LBA        USB1046-GF-0190-L-B-A                  1
+J1_INTERNALL HD04-19-TH-TR         HD04-19-TH-TR         CUI_HD04-19-TH-TR       HD04-19-TH-TR                          1
+J2           HD04-19-TH-TR         HD04-19-TH-TR         CUI_HD04-19-TH-TR       HD04-19-TH-TR                          1
+J3           HD04-19-TH-TR         HD04-19-TH-TR         CUI_HD04-19-TH-TR       HD04-19-TH-TR                          1
+LM317TG      LM317TG               LM317TG               TO254P1054X470X1955-3   LM317TG                                1
+R1           27R                   R-EU_R0805            R0805                   rcl                                    1
+R2           27R                   R-EU_R0805            R0805                   rcl                                    1
+R3           1K                    R-EU_R0805            R0805                   rcl                                    1
+R5           4020R                 R-EU_R0805            R0805                   rcl                                    1
+R7           1K                    R-EU_R0805            R0805                   rcl                                    1
+R8           10K                   R-EU_R0805            R0805                   rcl                                    1
+R9           16.4K                 R-EU_R0805            R0805                   rcl                                    1
+TMDS361BPAGR TMDS361BPAGR          TMDS361BPAGR          QFP50P1200X1200X120-64N Texas Instruments_By_element14_Batch_1 1

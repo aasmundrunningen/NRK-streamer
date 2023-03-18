@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2022-10-22T16:07:58Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.526,
+        "LayerNumber": 4,
+        "Name": {
+            "ProjectId": "schematic hovedboks version 3"
+        },
+        "Owner": "Asmund Runningen <aasmund.runningen@gmail.com>",
+        "Size": {
+            "X": 80,
+            "Y": 60
+        }
+    }
+}
